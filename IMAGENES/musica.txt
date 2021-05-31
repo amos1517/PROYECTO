@@ -1,0 +1,18 @@
+<html>
+  <head> 
+        <title>Mi pagina Personal</title> 
+  </head> 
+<body bgcolor= "aqua" >
+       <h1><em>Menu de opciones<em></h1> <hr> 
+  <a href="index.html">Home</a> &nbsp;&nbsp; 
+  <a href="escuela.html"> Datos escolares</a> &nbsp;&nbsp; 
+  <a href="hobbie.html"> Hobbies</a> &nbsp;&nbsp;
+
+    <a href="heroe.html"> Heroe</a> &nbsp;&nbsp;
+    <a href="comida.html"> comida</a> &nbsp;&nbsp;
+    <b> musica &nbsp;&nbsp; </b>
+ <hr> 
+ <h1><em>CAMISA NEGRA</em></h1>
+https://youtu.be/kRt2sRyup6A
+</body> 
+</html>
